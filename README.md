@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lynden, a Biochemist in Bristol, UK. New to this coding lark!
+My name is Lynden, a Biochemist in Bristol, UK. 
 
 <!--
 **lynden95/lynden95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
